@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtualgreeneduu/static/css/main.21bb2fe5.css",
+    "main.js": "/virtualgreeneduu/static/js/main.0e82290d.js",
+    "index.html": "/virtualgreeneduu/index.html",
+    "main.21bb2fe5.css.map": "/virtualgreeneduu/static/css/main.21bb2fe5.css.map",
+    "main.0e82290d.js.map": "/virtualgreeneduu/static/js/main.0e82290d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bb2fe5.css",
+    "static/js/main.0e82290d.js"
+  ]
+}
