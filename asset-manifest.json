@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/idtproject/static/css/main.21bb2fe5.css",
-    "main.js": "/idtproject/static/js/main.0e82290d.js",
+    "main.js": "/idtproject/static/js/main.f6a62b89.js",
     "index.html": "/idtproject/index.html",
     "main.21bb2fe5.css.map": "/idtproject/static/css/main.21bb2fe5.css.map",
-    "main.0e82290d.js.map": "/idtproject/static/js/main.0e82290d.js.map"
+    "main.f6a62b89.js.map": "/idtproject/static/js/main.f6a62b89.js.map"
   },
   "entrypoints": [
     "static/css/main.21bb2fe5.css",
-    "static/js/main.0e82290d.js"
+    "static/js/main.f6a62b89.js"
   ]
 }
